@@ -1,0 +1,9 @@
+name: control-environment
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - sympy
+  - control
+  - slycot
+  - ffmpeg
